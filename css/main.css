@@ -1,0 +1,42 @@
+html {
+	box-sizing: border-box;
+  font-family: 'Roboto\+Condensed', sans-serif;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+.banner {
+  max-height: 500px;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+p{
+  font-size: 1.5rem;
+}
+
+.img-flex {
+
+}
+
+.img-circle {
+
+}
+
+.btn {
+  display: inline-block;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  text-decoration: none;
+  border-radius: 8px;
+  border-width: 3px;
+  font-size: 1.5em;
+  color: #fff;
+  background-color: #333;
+}
